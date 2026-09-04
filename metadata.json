@@ -1,0 +1,10 @@
+{
+  "name": "MY UNIVERSE",
+  "description": "A personal 3D interactive cosmos, journaling universe, and personal vault system.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
